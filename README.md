@@ -1,5 +1,6 @@
 # Description
 A node.js application that uses user input from inquirer to populate an employee tracker database displaying members of a company.
+
 User Story
 AS A business owner
 I WANT to be able to view and manage the departments, roles, and employees in my company
@@ -22,17 +23,14 @@ WHEN I choose to add an employee
 THEN I am prompted to enter the employee’s first name, last name, role, and manager and that employee is added to the database
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
+
 Table of Contents
-Description
-User Story
-Acceptance Criteria
-Table of Contents
-Installation
-Usage
-Testing
-Contributing
-Questions
-Installation
+-Description
+-User Story
+-Acceptance Criteria
+-Table of Contents
+-Installation
+-Usage
 
 npm init
 
